@@ -11,3 +11,6 @@ After installing the requirements file. run the file passiveRecon.py using the c
 python passiveRecon.py 
 ```
 The list of findings will be saved to the file ./data/findings.txt
+
+IMPORTANT!
+This code runs only on kali linux.
